@@ -1,0 +1,34 @@
+# Unity Generated
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity Build Output
+Builds/
+Build/
+*.apk
+*.aab
+*.unitypackage
+
+# Visual Studio / Rider
+.vs/
+*.sln
+*.csproj
+ExportedObj/
+.consulo/
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Vuforia
+Assets/Vuforia/Editor/
+Assets/StreamingAssets/Vuforia/*.dat
+Assets/StreamingAssets/Vuforia/*.xml
+
+Packages/*.tgz
