@@ -64,7 +64,7 @@ The goal is to bridge traditional printed educational material with modern AR te
 
 | Start Screen | Vintage Phone AR | Camera AR |
 |:---:|:---:|:---:|
-| <img src="Yhttps://raw.githubusercontent.com/Mohanad06/AR-Science-Museum/main/screenshots/startscreen.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/Mohanad06/AR-Science-Museum/main/screenshots/Vintage Phone.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/Mohanad06/AR-Science-Museum/main/screenshots/Camera.jpeg" width="200"/> |
+| <img src="https://raw.githubusercontent.com/Mohanad06/AR-Science-Museum/main/screenshots/startscreen.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/Mohanad06/AR-Science-Museum/main/screenshots/Vintage Phone.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/Mohanad06/AR-Science-Museum/main/screenshots/Camera.jpeg" width="200"/> |
 | *Vintage-themed main menu* | *Vintage Phone* | *Camera* |
 
 | Microscope AR | Balance Scale AR | Gramophone AR |
