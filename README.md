@@ -169,9 +169,8 @@ git clone https://github.com/Mohanad06/AR-Science-Museum.git
 
 </div>
 
-> ⚠️ You must download or open the booklet to use the AR features of the app.
-> ⚠️ If the PDF preview does not load on GitHub, please download the file or view it online.
-
+> ⚠️ You must download or open the booklet to use the AR features of the app.  
+> ⚠️ If the PDF preview does not load on GitHub, please download the file.
 ---
 
 ## 📱 How To Use
