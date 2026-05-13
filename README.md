@@ -3,7 +3,6 @@
 # 🏛️ Interactive AR Science Museum
 ### المتحف العلمي التفاعلي
 
-<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="AR Science Museum Banner" width="100%"/>
 
 > An educational Augmented Reality application that brings five historical scientific instruments to life as interactive 3D models — simply point your camera at the target image and explore.
 
