@@ -140,7 +140,7 @@ The goal is to bridge traditional printed educational material with modern AR te
 ### Installation
 
 **Option 1 — Direct APK Install:**
-1. Download the latest APK from the [Releases](../../releases) page
+1. Download the latest APK from the [Releases](https://github.com/Mohanad06/AR-Science-Museum/releases/tag/v1.0) page
 2. Enable *Install from Unknown Sources* on your Android device
 3. Open the APK file and install
 4. Grant camera permission on first launch
@@ -148,7 +148,7 @@ The goal is to bridge traditional printed educational material with modern AR te
 **Option 2 — Build from Source:**
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/AR-Science-Museum.git
+git clone https://github.com/Mohanad06/AR-Science-Museum.git
 
 # Open in Unity 2022.3 LTS
 # File → Build Settings → Android → Build And Run
